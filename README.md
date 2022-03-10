@@ -1,6 +1,12 @@
-# VBA-challenge
+# VBA Challenge: Wall Street Edition
 
+### Background
 The objective of this project was to use VBA script to analyze yearly stock performance divided yearly for 2014, 2015 and 2016.
+
+### Files Used
+1. Test Data
+2. Stock Data
+**Both can be found under 'Resources'**
 
 Values that were extracted:
 - Ticker Symbol
