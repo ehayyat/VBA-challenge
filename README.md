@@ -6,7 +6,9 @@ The objective of this project was to use VBA script to analyze yearly stock perf
 ### Files Used
 1. Test Data
 2. Stock Data
-**Both can be found under 'Resources'**
+
+
+**Both can be found under 'Resources' **
 
 Values that were extracted:
 - Ticker Symbol
